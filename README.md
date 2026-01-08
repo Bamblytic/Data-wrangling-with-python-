@@ -64,12 +64,3 @@ The notebook walks through importing raw data, cleaning and transforming it, eng
 - NumPy for numerical operations. [file:87]  
 - Jupyter Notebook for interactive analysis. [file:87]  
 
----
-
-## How to run
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
